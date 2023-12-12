@@ -1,3 +1,3 @@
 # Project
 This is my first repository.
-This is this.
+This is my git account using kmail.
